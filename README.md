@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/dep-joti-ghosh-563a8810a/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:depjotighosh@gmail.com)
 
-Hi there 👋, My name is Dep Joti Ghosh. A self-taught, passionate and fast-learner full-stack developer from Cumilla, 🇧🇩 🌎.  I hold  a B.Sc in Computer Science and Engineering from Bangladesh Army International University of Science and Technology(BAIUST), Cumilla Cantonment 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
+Hi there 👋, This is Dep Joti Ghosh. A self-taught, passionate and fast-learner full-stack developer from Cumilla, 🇧🇩 🌎.  I hold  a B.Sc in Computer Science and Engineering from Bangladesh Army International University of Science and Technology(BAIUST), Cumilla Cantonment 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
 
 ## {...} My Stack 💻🚀
 

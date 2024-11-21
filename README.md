@@ -36,3 +36,5 @@ Hi there 👋, This is Dep Joti Ghosh. A self-taught, passionate and fast-learne
 ```
 
 <img src="https://github-readme-stats.vercel.app/api/?username=depjoti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=depjoti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />

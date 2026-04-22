@@ -27,10 +27,10 @@ Hi there 👋, This is Dep Joti Ghosh. A self-taught, passionate and fast-learne
 {
   languages: ['JavaScript', 'C++', 'Python'],
   backend: ['nodeJs'],
-  frontend: ['React'],
+  frontend: ['React', 'Next.JS'],
   databases: ['mongoDB', "sql"],
   tools: ['vs code', 'postman' ],
-  Cloud: ['Heroku', 'Netlify'],
+  Cloud: ['AWS', 'Azure'],
   Open Source: ['GitHub']
 }
 ```
